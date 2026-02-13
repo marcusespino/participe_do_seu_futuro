@@ -1,9 +1,4 @@
-4356
-96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\MT.js134152487080481565 0
-91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\_\_call_super134152487068685028 1
-78C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\source-map-js134152503679005756 1
-115C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@popperjs\core\lib\dom-utils\isLayoutViewport.d.ts134152510459198387 0
-83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\.package-lock.json134154112977592087 0
+4364
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\resource-timing.js134152487082292562 0
 109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\array-includes.js134152487057079351 0
 124C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c134152487058188498 0
@@ -33,9 +28,9 @@
 62C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images134153972765235582 1
 108C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\_\_overload_yield\package.json134152487072463554 0
 100C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\workers\lib\web\WebChild.js134152487057994804 0
-109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\js\dist\dom\selector-engine.js.map134152510462316703 0
 112C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\keyboardevent-key.js134152487079035003 0
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\source-map-js\lib\binary-search.js134152503678519564 0
+109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\js\dist\dom\selector-engine.js.map134152510462316703 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\HK.js134152487076023885 0
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\is-glob\index.js134152487044586401 0
 118C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json134152487071642003 0
@@ -63,7 +58,7 @@
 95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\semver\functions\prerelease.js134152487057240605 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-svg\LICENSE134152487050168225 0
 93C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\scss\_popover.scss134152510463640296 0
-56C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist134154660889516920 1
+56C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist134154676159506930 1
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\utility-types\dist\aliases-and-guards.d.ts134152487053730730 0
 92C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\fs\src\OverlayFS.js134152487057185994 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\JE.js134152487078613719 0
@@ -112,7 +107,7 @@
 113C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js134152487055392225 0
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\escalade\license134152487043133380 0
 102C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\colr-v1.js134152487063937594 0
-66C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\index.html134154660700636885 0
+66C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\index.html134154675888680335 0
 101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\watcher\src\watchman\BSER.cc134152487051021975 0
 120C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lightningcss\node_modules\detect-libc\lib\filesystem.js134152487045702256 0
 62C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\videos134153415790362762 1
@@ -149,6 +144,10 @@
 97C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\term-size\vendor\macos\term-size134152487045783866 0
 100C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\compressor-raw\package.json134152487057423125 0
 74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\styles\header.scss134153937267586706 0
+105C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\indexeddb2.js134152487076872953 0
+96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\update-browserslist-db\utils.js134152487045882601 0
+86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results\feedback_03.png134154673613343255 0
+101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\test\Tracer.test.js134152487053153980 0
 105C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\use-strict.js134152487085156741 0
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\_\_array_with_holes\package.json134152487068029363 0
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\css-any-link.js134152487065110736 0
@@ -167,6 +166,11 @@
 111C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\css-touch-action.js134152487070647435 0
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs134152487055694430 0
 75C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\styles\promise.scss134154078325327790 0
+116C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs134152487059270436 0
+96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\MP.js134152487080349745 0
+74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib134152487054767793 1
+86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results\feedback_01.png134154672945738322 0
+101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-image\package.json134152487053506936 0
 82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sass\types\legacy134152503687221074 1
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\type-fest\source\require-exactly-one.d.ts134152487056617605 0
 133C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts134152487051194654 0
@@ -222,22 +226,22 @@
 104C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\maxlength.js134152487079873121 0
 78C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\LICENSE134152514349508675 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\community\animacao2.png134153214853737322 0
-68C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\coach134153294358093319 1
-84C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\chokidar\index.d.ts134152503678791974 0
-72C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@emnapi134152514353558533 1
-96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\BW.js134152487061919199 0
 115C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js134152487057804480 0
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\src\requests134152487070209773 1
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\change\change_photo.png134153971091650453 0
 79C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\.bin\json5.ps1134152487087892921 0
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\coach\coach_image (980 x 920 px).png134153293841961815 0
 87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\commander\lib\error.js134152487049770302 0
+72C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@emnapi134152514353558533 1
+96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\BW.js134152487061919199 0
+68C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\coach134153294358093319 1
+84C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\chokidar\index.d.ts134152503678791974 0
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\runtime-service-worker\lib134152487051693947 1
 109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\scrollintoview.js134152487082693266 0
 72C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\community134153399985413602 1
 91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\utils\lib\index.js134152487060339232 0
 70C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\tslib134152487053143913 1
-70C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results134153393165616271 1
+70C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results134154674371401253 1
 101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\baseline-browser-mapping\LICENSE.txt134152487052195876 0
 98C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\eot.js134152487073180080 0
 88C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\logo\spadafora_orange.svg134152979642320335 0
@@ -268,14 +272,9 @@
 118C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js134152487085020832 0
 104C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\packager-svg\src\SVGPackager.js134152487051856354 0
 82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\social\whatsapp.svg134115804531150456 0
-109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\css3-boxsizing.js134152487071168702 0
-83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\node-releases\data134152487045820377 1
-91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\msgpackr-extract\README.md134152487050733989 0
-69C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\.bin134152503687358835 1
-94C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_defaults.js134152487065324458 0
-74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\lib134152514351626989 1
-82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib\util.js134152487052550510 0
-91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results\EXEMPLO_FEEDBACK.png134153392779651946 0
+86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\results\feedback_02.png134154673343781697 0
+87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\picomatch\lib\parse.js134152487045820377 0
+97C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-html\LICENSE134152487052751020 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\logo\Spadafora Logo.svg134152890816930643 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\lib\libvips.js134152514350867693 0
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\src\_class_private_field_set.mjs134152487075148258 0
@@ -300,8 +299,8 @@
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\calls\chamada4.png134153426077093608 0
 116C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c134152487058065702 0
 112C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h134152487063954777 0
-107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\source-map-js\lib\source-map-consumer.d.ts134152503678966230 0
 94C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features.js134152487073819601 0
+107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\source-map-js\lib\source-map-consumer.d.ts134152503678966230 0
 82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\node_modules134152487033104650 1
 156C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json134152487071524515 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\community\animacao4.png134153216197868065 0
@@ -309,6 +308,16 @@
 116C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134152487057804480 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\images\community\animacao5.png134153216518321112 0
 112C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h134152487064571595 0
+109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\css3-boxsizing.js134152487071168702 0
+83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\node-releases\data134152487045820377 1
+91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\msgpackr-extract\README.md134152487050733989 0
+69C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\.bin134152503687358835 1
+94C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_defaults.js134152487065324458 0
+96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\MT.js134152487080481565 0
+91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\_\_call_super134152487068685028 1
+78C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\source-map-js134152503679005756 1
+115C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@popperjs\core\lib\dom-utils\isLayoutViewport.d.ts134152510459198387 0
+83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\.package-lock.json134154112977592087 0
 91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\term-size\vendor\.DS_Store134152487043814280 0
 93C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-node\src134152487051136671 1
 69C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@img134152514353524544 1
@@ -722,8 +731,6 @@
 111C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@popperjs\core\lib\dom-utils\getWindow.js.flow134152510459035521 0
 98C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h134152487064434204 0
 97C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\update-browserslist-db\README.md134152487050572956 0
-105C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\indexeddb2.js134152487076872953 0
-96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\update-browserslist-db\utils.js134152487045882601 0
 95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\scss\_variables.scss134152510464184101 0
 82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\dotenv-expand\lib134152487051058439 1
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\type-fest\index.d.ts134152487053819949 0
@@ -980,6 +987,7 @@
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_get.cjs134152487058391294 0
 78C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\install134152514350524862 1
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\src\env.cpp134152487062429399 0
+74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\lib134152514351626989 1
 80C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\is-glob\LICENSE134152487043195601 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\workers\src\cpuCount.js134152487053922149 0
 83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\node_modules134152514348108114 1
@@ -1019,11 +1027,11 @@
 74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\dist134152487065565121 1
 87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\src\utilities.cc134152514349910810 0
 95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\detect-libc\bin\detect-libc.js134152487049738238 0
-95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\node_modules\detect-libc134152514349833680 1
-73C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\bin134152487065063738 1
-111C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\registerCoreWithSerializer.js134152487067411532 0
 117C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@popperjs\core\lib\modifiers\preventOverflow.js.flow134152510459877762 0
 83C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\events\src134152487057678627 1
+111C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\registerCoreWithSerializer.js134152487067411532 0
+95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\node_modules\detect-libc134152514349833680 1
+73C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\bin134152487065063738 1
 98C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\electron-to-chromium\package.json134152487052515160 0
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\node_modules\detect-libc\index.d.ts134152514349833680 0
 119C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two134152487071689710 1
@@ -1044,7 +1052,6 @@
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\packager-raw134152487052342231 1
 89C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\safe-buffer\package.json134152487045200099 0
 88C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\semver\functions\inc.js134152487053943581 0
-99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\ReporterRunner.js134152487067478494 0
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sharp\node_modules\detect-libc\lib\elf.js134152514349687128 0
 88C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\source-map\dist134152487054287026 1
 88C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\node-addon-api\index.js134152487053943581 0
@@ -1184,6 +1191,7 @@
 73C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\src134152487063656053 1
 102C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\scss\forms\_form-check.scss134152510463214165 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\sass\sass.default.cjs134152503678966230 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_03.89e35030.png134154675234169958 0
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\font-smooth.js134152487074718246 0
 109C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\css-cross-fade.js134152487066026368 0
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lmdb\SECURITY.md134152487065930818 0
@@ -1286,8 +1294,6 @@
 92C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\ordered-binary\package.json134152487052182352 0
 84C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\picomatch\README.md134152487052456464 0
 100C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\runtime-js\lib\helpers\node134152487057789112 1
-87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\picomatch\lib\parse.js134152487045820377 0
-97C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-html\LICENSE134152487052751020 0
 108C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\sharedworkers.js134152487083079128 0
 87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\picomatch\lib\utils.js134152487051448811 0
 101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\dist\unpacker\region.js134152487082089423 0
@@ -1804,9 +1810,6 @@
 123C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_ts_rewrite_relative_import_extension.cjs134152487062017830 0
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\node-resolver-core\lib\builtins.js134152487051650297 0
 75C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\dist134152487053743997 1
-116C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs134152487059270436 0
-96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\MP.js134152487080349745 0
-74C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib134152487054767793 1
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\dotenv\README.md134152487051843848 0
 115C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@popperjs\core\lib\dom-utils\getNodeScroll.js.flow134152510458784776 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\QA.js134152487081986338 0
@@ -1824,6 +1827,7 @@
 87C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib\unicode.d.ts134152487054604329 0
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\rest-parameters.js134152487082323215 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib\unicode.js134152487052182352 0
+82C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\lib\util.js134152487052550510 0
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\input-search.js134152487078103311 0
 100C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\const.js134152487064276754 0
 84C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\json5\dist\index.js134152487045314837 0
@@ -3282,6 +3286,7 @@
 129C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134152487064288699 0
 114C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\cjs\_possible_constructor_return.cjs134152487060191131 0
 110C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js134152487050699057 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_02.b6db1ac0.png134154674755782215 0
 116C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_class_extract_field_descriptor.js134152487064332223 0
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_class_name_tdz_error.js134152487064402772 0
 117C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@swc\helpers\esm\_class_private_field_destructure.js134152487064464833 0
@@ -3971,7 +3976,6 @@
 139C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json134152487058937692 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\lib134152487054590314 1
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\test134152487053104101 1
-101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\test\Tracer.test.js134152487053153980 0
 94C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\src\index.js134152487050773059 0
 105C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\src\SamplingProfiler.js134152487051593686 0
 95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\profiler\src\Tracer.js134152487052882330 0
@@ -4038,7 +4042,6 @@
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-swc\src134152487053022579 1
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-svg\package.json134152487056925032 0
 106C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-svg\lib\SVGOptimizer.js134152487056361123 0
-101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-image\package.json134152487053506936 0
 91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-html\lib134152487056556343 1
 112C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\error-overlay\src\utils\getPrettyURL.js134152487051992968 0
 91C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\optimizer-html\src134152487056868815 1
@@ -4203,6 +4206,7 @@
 101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\loadParcelPlugin.js134152487065228392 0
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\PackagerRunner.js134152487065690716 0
 88C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\public134152487068652236 1
+99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\ReporterRunner.js134152487067478494 0
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\requests134152487070164475 1
 99C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\RequestTracker.js134152487067630741 0
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\core\lib\serializerCore.browser.js134152487068029363 0
@@ -4321,9 +4325,13 @@
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\coach_image.a655cbdb.png134153291513444195 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\EXEMPLO_FEEDBACK.5905c7f7.png134154660707338247 0
 86C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\EXEMPLO_FEEDBACK.c8312bee.png134154084071592575 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_01.cb6235c7.png134154674755253820 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_01.f2add7b1.png134154675234169958 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_02.000a2309.png134154675233951293 0
+81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_03.f3f1e7ba.png134154674755273772 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\hero_caroussel1.c8f0555e.png134153914315524077 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\hero_caroussel3.30c39d8d.png134153914315583920 0
-67C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\index.html134154660889516920 0
+67C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\index.html134154676159506930 0
 79C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\instagram.b022d584.svg134154660706955956 0
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\LANDINGPAGE_GPSF.3eb0e5f0.css.map134154084071732514 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\LANDINGPAGE_GPSF.4841ef46.js134154660708300345 0
