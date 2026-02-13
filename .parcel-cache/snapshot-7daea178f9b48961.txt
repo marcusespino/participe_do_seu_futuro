@@ -58,7 +58,7 @@
 95C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\semver\functions\prerelease.js134152487057240605 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\transformer-svg\LICENSE134152487050168225 0
 93C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\bootstrap\scss\_popover.scss134152510463640296 0
-56C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist134154700171980658 1
+56C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist134154701889798733 1
 107C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\utility-types\dist\aliases-and-guards.d.ts134152487053730730 0
 92C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\fs\src\OverlayFS.js134152487057185994 0
 96C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\regions\JE.js134152487078613719 0
@@ -107,7 +107,7 @@
 113C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js134152487055392225 0
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\escalade\license134152487043133380 0
 102C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\caniuse-lite\data\features\colr-v1.js134152487063937594 0
-66C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\index.html134154700080350991 0
+66C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\index.html134154701788302996 0
 101C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\@parcel\watcher\src\watchman\BSER.cc134152487051021975 0
 120C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\node_modules\lightningcss\node_modules\detect-libc\lib\filesystem.js134152487045702256 0
 62C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\src\videos134153415790362762 1
@@ -4332,7 +4332,7 @@
 81C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\feedback_03.f3f1e7ba.png134154674755273772 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\hero_caroussel1.c8f0555e.png134153914315524077 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\hero_caroussel3.30c39d8d.png134153914315583920 0
-67C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\index.html134154700171970495 0
+67C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\index.html134154701889767955 0
 79C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\instagram.b022d584.svg134154660706955956 0
 90C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\LANDINGPAGE_GPSF.3eb0e5f0.css.map134154084071732514 0
 85C:\Users\marky\OneDrive\Documentos\LANDINGPAGE_GPSF\dist\LANDINGPAGE_GPSF.4841ef46.js134154660708300345 0
