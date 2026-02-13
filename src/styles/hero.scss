@@ -1,0 +1,167 @@
+@use "variaveis";
+
+.hero {
+    position: relative;
+    min-height: 80vh;
+    padding-top: 5.4rem;
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+
+    &__text {
+        color: white;
+        max-width: 520px;
+        padding-bottom: 70px;
+        text-align: center;
+
+        h1 {
+            font-size: clamp(1rem, 2vw, 1.8rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            font-family: "Lexend", sans-serif;
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.5;
+            opacity: 0.9;
+            margin-bottom: 1rem;
+        }
+    }
+
+    &__cta {
+        background: #ff6b00;
+        color: black;
+        font-weight: 600;
+        padding: 14px 38px;
+        border-radius: 30px;
+        transition: .3s;
+        text-decoration: none;
+
+        &:hover {
+            background: #ff8a3d;
+            transform: translateY(-2px);
+        }
+    }
+
+    &__image {
+        text-align: right;
+
+        img {
+            max-height: 95vh;
+            object-fit: contain;
+        }
+    }
+}
+
+/* =====================================
+TABLET (768px até 991px)
+===================================== */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .hero {
+        min-height: 65vh; // hero mais curto no tablet
+        padding-top: 4rem;
+        padding-bottom: 3rem; // espaço extra pro botão
+
+        &__text {
+            padding-bottom: 0;
+            max-width: 100%;
+        }
+
+        &__image img {
+            max-height: 55vh; // imagem menor no tablet
+        }
+
+        &__cta {
+            display: inline-block;
+            margin-top: 1rem;
+        }
+    }
+
+    .social-icons {
+        margin-left: 0;
+        justify-content: center;
+    }
+}
+
+/* =====================================
+CELULAR
+===================================== */
+
+@media (max-width: 767px) {
+
+    .hero {
+        padding-top: 5rem;
+
+        &__text {
+            text-align: center;
+            margin: 0 auto 2rem auto;
+            padding-bottom: 0;
+        }
+
+        &__image {
+            margin-bottom: 2rem;
+            text-align: center;
+
+            img {
+                max-height: 50vh;
+            }
+        }
+
+        &__cta {
+            display: block;
+            width: 100%;
+            padding: 16px 20px;
+            font-size: 0.95rem;
+            border-radius: 999px;
+            text-align: center;
+            white-space: normal;
+        }
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: center;   
+        align-items: center;
+        gap: 16px;
+        margin-left: 0;            
+        margin-right: 0;
+        width: 100%;
+    }
+}
+
+/* SOCIAL */
+
+.social-icons {
+    margin-top: 30px;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+
+    a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 52px;
+        height: 52px;
+        background-color: rgba(255, 255, 255, 0.85);
+        border-radius: 50%;
+        transition: all 0.3s ease;
+
+        img {
+            width: 26px;
+            height: 26px;
+        }
+
+        &:hover {
+            transform: scale(1.1);
+            background-color: #ff6b00;
+
+            img {
+                filter: brightness(0) invert(1);
+            }
+        }
+    }
+}

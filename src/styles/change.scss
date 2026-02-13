@@ -1,0 +1,63 @@
+@use "variaveis";
+
+.info-section {
+    position: relative;
+    padding: 5rem 0;
+    display: flex;
+    align-items: center;
+
+    &__text {
+        color: white;
+        max-width: 520px;
+
+        h2 {
+            font-size: clamp(1.4rem, 2vw, 2rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            font-family: "Lexend", sans-serif;
+        }
+
+        p {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+    }
+
+    &__image {
+        text-align: right;
+
+        img {
+            max-height: 90vh;
+            object-fit: contain;
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    .info-section__image img {
+        padding-right: 150px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .info-section {
+        padding: 3rem 0;
+
+        &__text {
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        &__image {
+            text-align: center;
+            margin-bottom: 2rem;
+
+            img {
+                padding: auto;
+                max-height: 45vh;
+            }
+        }
+    }
+}

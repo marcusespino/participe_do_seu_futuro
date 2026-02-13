@@ -1,0 +1,58 @@
+@use "variaveis";
+
+.results {
+    padding: 5rem 0;
+    background: #000;
+    color: white;
+
+    &__content {
+        max-width: 420px;
+
+        h2 {
+            color: #ff6b00;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            opacity: .85;
+            line-height: 1.6;
+        }
+    }
+
+    &__carousel {
+        padding-left: 60px;
+
+        img {
+            border-radius: 20px;
+            object-fit: cover;
+        }
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 40px;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        filter: invert(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .results {
+        padding: 2rem;
+        padding-top: 4px;
+        text-align: center;
+
+        &__content {
+            padding-top: 6px;
+        }
+
+        &__carousel {
+            max-width: 350px;
+            padding-left: 30px;
+            margin-top: 2rem;
+        }
+    }
+}

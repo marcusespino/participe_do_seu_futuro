@@ -1,0 +1,83 @@
+@use "variaveis";
+
+.promise {
+    background-color: rgb(255, 117, 31);
+    padding: 3rem 0;
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+        line-height: 1.6;
+    }
+
+    .lead-form-wrapper {
+        border: 2px solid #fff;
+        padding: 32px;
+        max-width: 420px;
+        border-radius: 12px;
+        background: rgba(255,255,255,0.05);
+        backdrop-filter: blur(6px);
+        margin-left: auto; 
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px 16px;
+            border-radius: 8px;
+            border: 1px solid #fff;
+            background: transparent;
+            color: #fff;
+            outline: none;
+            font-size: 1rem;
+
+            &::placeholder {
+                color: rgba(255,255,255,.7);
+            }
+
+            &:focus {
+                border-color: #ff6b00;
+            }
+        }
+
+        button {
+            margin-top: 8px;
+            border: none;
+            cursor: pointer;
+        }
+    }
+}
+
+@media (max-width: 576px) {
+
+    .promise {
+
+        p {
+            font-size: 0.95rem; // texto um pouco menor
+        }
+
+        .lead-form-wrapper {
+            padding: 20px;       // diminui o padding interno
+            max-width: 320px;    // deixa menor que a tela
+            margin: 2rem auto 0; // centraliza corretamente
+
+            input {
+                padding: 10px 14px;
+                font-size: 0.9rem;
+            }
+
+            button {
+                font-size: 0.9rem;
+                padding: 12px;
+            }
+        }
+    }
+}
+

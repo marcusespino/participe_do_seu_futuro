@@ -1,0 +1,61 @@
+@use "variaveis";
+
+.calls {
+    padding: 5rem 0;
+    background: #ff6b00;
+    color: white;
+
+    &__content {
+        max-width: 420px;
+
+        h2 {
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            opacity: .85;
+            line-height: 1.6;
+        }
+    }
+
+    &__carousel {
+        padding-left: 60px;
+
+        img {
+            border-radius: 20px;
+            object-fit: cover;
+        }
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 40px;
+    }
+
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        filter: invert(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .calls {
+        text-align: center;
+
+        &__carousel {
+            padding-left: 0;
+            margin: 2rem auto 0 auto;
+
+            max-width: 320px;  // ↓ controla o tamanho
+            width: 100%;       // evita quebrar layout
+
+            img {
+                height: 220px; // ↓ deixa visualmente menor
+                object-fit: cover;
+            }
+        }
+    }
+}
+
+

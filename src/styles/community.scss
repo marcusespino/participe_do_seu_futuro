@@ -1,0 +1,152 @@
+@use "variaveis";
+
+.community {
+    min-height: auto; 
+    padding: 3rem 0 6rem; 
+    margin-top: -40px; 
+    background: #000;
+    color: white;
+    overflow: hidden;
+
+    &__content {
+        max-width: 480px;
+
+        h2 {
+        margin-bottom: 1rem;
+        }
+
+        p {
+        opacity: .8;
+        margin-bottom: 2rem;
+        }
+    }
+
+    &__list {
+        list-style: none;
+        padding: 0;
+
+        li {
+        padding-left: 20px;
+        margin-bottom: 12px;
+        position: relative;
+
+        &:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #ff6b00;
+        }
+        }
+    }
+
+    &__visual {
+        position: relative;
+        height: 400px;
+        padding-left: 100px; 
+    }
+    }
+
+    .falling-images {
+    position: relative;
+    display: flex;
+
+    img {
+        width: 140px;
+        border-radius: 16px;
+        position: relative;
+
+        animation: fall 6s ease-in-out;
+        animation-play-state: paused;
+
+        &:nth-child(1) {
+        margin-left: 0;
+        animation-delay: 0s;
+        }
+
+        &:nth-child(2) {
+        margin-left: -50px;
+        top: 30px;
+        animation-delay: .6s;
+        }
+
+        &:nth-child(3) {
+        margin-left: -50px;
+        top: 60px;
+        animation-delay: 1.2s;
+        }
+
+        &:nth-child(4) {
+        margin-left: -50px;
+        top: 90px;
+        animation-delay: 1.8s;
+        }
+
+        &:nth-child(5) {
+        margin-left: -50px;
+        top: 120px;
+        animation-delay: 2.4s;
+        }
+    }
+}
+
+    @keyframes fall {
+    0% {
+        transform: translateY(-80px);
+        opacity: 0;
+    }
+
+    30% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(80px);
+        opacity: 0;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .community__visual {
+        height: 340px; // um pouco menor
+    }
+
+    .falling-images img {
+        width: 110px; // 👈 menor proporção
+    }
+
+    .falling-images img:nth-child(2),
+    .falling-images img:nth-child(3),
+    .falling-images img:nth-child(4),
+    .falling-images img:nth-child(5) {
+        margin-left: -35px; // reduz sobreposição proporcional
+    }
+}
+
+@media (max-width: 768px) {
+
+    .community {
+        text-align: center;
+
+        &__visual {
+            margin-top: 3rem;
+            padding-left: 0;
+            height: 280px; // reduz altura do bloco
+        }
+
+        .falling-images {
+            justify-content: center;
+        }
+
+        .falling-images img {
+            width: 85px; // 👈 bem menor no mobile
+        }
+
+        .falling-images img:nth-child(2),
+        .falling-images img:nth-child(3),
+        .falling-images img:nth-child(4),
+        .falling-images img:nth-child(5) {
+            margin-left: -25px; // ajusta sobreposição
+        }
+    }
+}

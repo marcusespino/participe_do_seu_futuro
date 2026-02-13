@@ -1,0 +1,57 @@
+@use "variaveis";
+
+.offer {
+    background: #000;
+    color: #fff;
+
+    &__title {
+        color: #ff6b00;
+        margin-bottom: 1rem;
+    }
+
+    &__divider {
+        width: 80px;
+        height: 3px;
+        background-color: #ff6b00;
+        border: none;
+        margin: 1rem auto 2rem auto;
+        opacity: 1;
+    }
+
+    &__access {
+        font-size: 1.1rem;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+    }
+
+    &__cta {
+        background-color: #ff6b00;
+        color: #fff;
+        padding: 14px 32px;
+        border-radius: 50px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        display: inline-block;
+
+        &:hover {
+            background-color: #e65c00;
+            transform: translateY(-2px);
+        }
+    }
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .offer {
+
+        &__access {
+            font-size: 1rem;
+        }
+
+        &__cta {
+            width: 100%;
+            max-width: 320px;
+        }
+    }
+}
