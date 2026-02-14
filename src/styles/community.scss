@@ -108,7 +108,7 @@
 @media (max-width: 991px) {
 
     .community__visual {
-        height: 340px; // um pouco menor
+        height: 240px; // um pouco menor
     }
 
     .falling-images img {
@@ -119,7 +119,7 @@
     .falling-images img:nth-child(3),
     .falling-images img:nth-child(4),
     .falling-images img:nth-child(5) {
-        margin-left: -35px; // reduz sobreposição proporcional
+        margin-left: -65px; // reduz sobreposição proporcional
     }
 }
 

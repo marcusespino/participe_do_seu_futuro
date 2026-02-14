@@ -14,7 +14,7 @@
 }
 
 #cabecalho .navbar-brand img {
-  height: 100px;
+  height: 90px;
   display: block;
 }
 
@@ -40,6 +40,32 @@
   opacity: 0;
   pointer-events: none;
   transform: translateY(-10px);
+}
+
+@media (width <= 768px) {
+  #cabecalho {
+    padding: 8px 0 !important;
+  }
+
+  #cabecalho .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  #cabecalho .navbar-brand img {
+    max-width: 100%;
+    height: 70px;
+  }
+
+  #cabecalho .navbar-toggler {
+    padding: 6px 10px;
+  }
+
+  #cabecalho .nav-cta {
+    margin-top: 12px;
+    padding: 8px 18px;
+    font-size: 14px;
+  }
 }
 
 .hero {
@@ -378,7 +404,7 @@
 
 @media (width <= 991px) {
   .community__visual {
-    height: 340px;
+    height: 240px;
   }
 
   .falling-images img {
@@ -386,7 +412,7 @@
   }
 
   .falling-images img:nth-child(2), .falling-images img:nth-child(3), .falling-images img:nth-child(4), .falling-images img:nth-child(5) {
-    margin-left: -35px;
+    margin-left: -65px;
   }
 }
 
@@ -718,6 +744,103 @@
     width: 100%;
     max-width: 320px;
   }
+}
+
+.para-quem {
+  background: #000;
+  align-items: center;
+  min-height: 85vh;
+  padding: 5rem 0;
+  display: flex;
+  position: relative;
+}
+
+.para-quem__text {
+  color: #fff;
+  max-width: 520px;
+}
+
+.para-quem__text h2 {
+  margin-bottom: 1.5rem;
+  font-size: clamp(1.4rem, 2.5vw, 2.2rem);
+  font-weight: 700;
+}
+
+.para-quem__text p {
+  opacity: .9;
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+
+.para-quem__text ul {
+  margin-bottom: 1.5rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.para-quem__text ul li {
+  margin-bottom: .7rem;
+  font-size: 1rem;
+}
+
+.para-quem__final {
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+.para-quem__image {
+  text-align: right;
+}
+
+.para-quem__image img {
+  object-fit: contain;
+  border-radius: 3%;
+  max-height: 70vh;
+}
+
+@media (width >= 768px) and (width <= 991px) {
+  .para-quem {
+    min-height: 75vh;
+    padding: 4rem 0;
+  }
+
+  .para-quem__text {
+    max-width: 100%;
+  }
+
+  .para-quem__image img {
+    max-height: 50vh;
+  }
+}
+
+@media (width <= 767px) {
+  .para-quem {
+    padding: 4rem 0;
+  }
+
+  .para-quem__text {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .para-quem__image {
+    text-align: center;
+  }
+
+  .para-quem__image img {
+    max-height: 45vh;
+  }
+}
+
+.animate-right {
+  opacity: 0;
+  transition: all .8s cubic-bezier(.4, 0, .2, 1);
+  transform: translateX(60px);
+}
+
+.animate-right.visible {
+  opacity: 1;
+  transform: translateX(0);
 }
 
 footer {

@@ -61,9 +61,9 @@ TABLET (768px até 991px)
 @media (min-width: 768px) and (max-width: 991px) {
 
     .hero {
-        min-height: 65vh; // hero mais curto no tablet
+        min-height: 65vh; 
         padding-top: 4rem;
-        padding-bottom: 3rem; // espaço extra pro botão
+        padding-bottom: 3rem; 
 
         &__text {
             padding-bottom: 0;
@@ -71,7 +71,7 @@ TABLET (768px até 991px)
         }
 
         &__image img {
-            max-height: 55vh; // imagem menor no tablet
+            max-height: 55vh;
         }
 
         &__cta {
@@ -85,10 +85,6 @@ TABLET (768px até 991px)
         justify-content: center;
     }
 }
-
-/* =====================================
-CELULAR
-===================================== */
 
 @media (max-width: 767px) {
 
@@ -165,3 +161,4 @@ CELULAR
         }
     }
 }
+
